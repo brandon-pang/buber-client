@@ -1,6 +1,6 @@
 {
-  "name": "nuber-client",
-  "version": "0.1.0",
+  "name": "buber-client",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@types/react-router-dom": "^4.3.0",
@@ -51,6 +51,5 @@
     "@types/react-sidebar": "^3.0.0",
     "gh-pages": "^1.2.0",
     "typescript": "^3.0.1"
-  },
-  "homepage": "https://nomadcoders.github.io/nuber-client/"
+  }
 }
